@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsale017&label=Profile%20views&color=0e75b6&style=flat" alt="jsale017" /> </p>
 
-- 🔭 I’m currently working on **Fostering Financial Resilience: A Predictive Model for IFC's Strategic Innovations in Risk Management and Market Access**
+- 🔭 I’m currently working on **Predicting volatility of the Stock Market**
 
 - 🌱 I’m currently learning **AWS**
 
