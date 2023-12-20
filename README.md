@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Predicting volatility of the Stock Market**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS**, **Jira**
 
 - 📫 How to reach me **jsale017@bu.edu**
 
