@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsale017&label=Profile%20views&color=0e75b6&style=flat" alt="jsale017" /> </p>
 
-- 🔭 I’m currently working on **Predicting volatility of the Stock Market**
+- 🔭 I’m currently working on **UMN Travelers Analytics Case Competition**
 
 - 🌱 I’m currently learning **AWS**, **Jira**
 
