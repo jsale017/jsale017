@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsale017&label=Profile%20views&color=0e75b6&style=flat" alt="jsale017" /> </p>
 
-- 🔭 I’m currently working on **Neural Networks that Classifies Traffic Signs**
+- 🔭 I’m currently working on **End-to-End Analytics Pipeline for Financial Data Predictions**
 
-- 🌱 I’m currently learning **Neural Networks Course**
+- 🌱 I’m currently learning **Deploying Analytics Pipelines Course**
 
 - 📫 How to reach me **jsale017@bu.edu**
 
