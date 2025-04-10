@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multi-Agent Workflows**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Development of Multi-Agent Workflows into various scenarios**
 
 - 📫 How to reach me **jsale017@bu.edu**
 
