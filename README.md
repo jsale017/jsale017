@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsale017&label=Profile%20views&color=0e75b6&style=flat" alt="jsale017" /> </p>
 
-- 🔭 I’m currently working on **Budget Automation Planner**
+- 🔭 I’m currently working on **Multi-Agent Workflows**
 
-- 🌱 I’m currently learning **Introduction to LangGraph from LangChain**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **jsale017@bu.edu**
 
